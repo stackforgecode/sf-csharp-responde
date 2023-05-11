@@ -1,5 +1,7 @@
 # Injeção de Dependência 
 
+<a href="https://github.com/stackforgecode/sf-csharp-responde/blob/main/README.md" style="position: sticky;">Voltar</a>
+
 Injeção de Dependência (ou Dependency Injection, em inglês) é um padrão de projeto de software que visa reduzir o acoplamento entre as classes de um sistema, tornando-o mais modular e flexível. Em essência, ele consiste em passar as dependências de uma classe para outra, em vez de criá-las dentro da própria classe.
 
 A ideia por trás da Injeção de Dependência é que as classes devem ser responsáveis apenas por sua própria lógica, e não por criar ou gerenciar suas dependências. Isso facilita a manutenção e a evolução do código, já que cada classe pode ser alterada ou substituída sem afetar as outras classes.
@@ -57,6 +59,9 @@ Assim como os membros dos 4Amigos, as classes de um sistema também têm suas pr
 A Injeção de Dependência permite que as classes trabalhem juntas de forma mais harmoniosa, assim como os membros dos 4Amigos. Ao invés de cada classe ter que se preocupar com suas próprias dependências e configurações, elas podem simplesmente receber as dependências de outras classes por meio do contêiner de IoC. Isso permite que as classes se concentrem em suas próprias responsabilidades, e torna o sistema mais fácil de manter e evoluir.
 
 Além disso, a Injeção de Dependência também permite que as classes sejam facilmente substituídas ou modificadas, assim como os membros dos 4Amigos podem ser substituídos ou o estilo de humor do grupo pode ser modificado. Isso torna o sistema mais flexível e adaptável às mudanças.
+
+----
+<a href="https://github.com/stackforgecode/sf-csharp-responde/blob/main/README.md" style="position: sticky;">Voltar</a>
 
 Em resumo, assim como os membros dos 4Amigos trabalham juntos para criar um espetáculo de sucesso, as classes de um sistema podem trabalhar juntas de forma mais harmoniosa e flexível com a Injeção de Dependência.
 
