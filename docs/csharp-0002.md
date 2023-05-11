@@ -1,5 +1,7 @@
 # O que é, o que faz, quais atribuições e quando usar o operador New em C#
 
+<a href="https://github.com/stackforgecode/sf-csharp-responde/blob/main/README.md" style="position: sticky;">Voltar</a>
+
 O operador "new" é usado em C# para alocar memória para um objeto de uma classe e retornar uma referência a esse objeto. Ele cria uma instância de uma classe, inicializa os campos dessa instância e retorna uma referência a essa instância. 
 
 O operador "new" é usado para criar objetos em tempo de execução e é usado sempre que uma nova instância de um objeto é necessária. 
@@ -42,6 +44,9 @@ var pessoa = new { Nome = "João", Idade = 30 }; // Cria um objeto anônimo com 
 dynamic tipoDinamico = typeof(MinhaClasse);
 dynamic objetoDinamico = Activator.CreateInstance(tipoDinamico); // Cria uma instância de MinhaClasse usando o operador "new" em tempo de execução
 ```
+
+----
+<a href="https://github.com/stackforgecode/sf-csharp-responde/blob/main/README.md" style="position: sticky;">Voltar</a>
 
 Em todas essas situações, é importante lembrar que o operador "new" aloca memória na heap e que essa memória deve ser desalocada quando não for mais necessária, para evitar vazamentos de memória. Em geral, é recomendável usar a palavra-chave "using" ou implementar a interface IDisposable para garantir que os recursos alocados sejam liberados corretamente.
 
