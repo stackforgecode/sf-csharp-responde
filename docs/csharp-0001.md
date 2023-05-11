@@ -1,4 +1,4 @@
-# As diferenças entre classes do tipo POCO, DAO e DTO em C#
+# As diferenças entre classes e entidades dos tipos POCO, DAO e DTO em C#
 
 Em C#, POCO, DAO e DTO são padrões de projeto comumente usados em aplicações de software. Eles têm papéis diferentes e podem ser usados ​​em conjunto para fornecer um design robusto e escalável para o seu software.
 
