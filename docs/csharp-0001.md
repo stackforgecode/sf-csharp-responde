@@ -1,5 +1,7 @@
 # As diferenças entre classes e entidades dos tipos POCO, DAO e DTO em C#
 
+<a href="https://github.com/stackforgecode/sf-csharp-responde/blob/main/README.md" style="position: sticky;">Voltar</a>
+
 Em C#, POCO, DAO e DTO são padrões de projeto comumente usados em aplicações de software. Eles têm papéis diferentes e podem ser usados ​​em conjunto para fornecer um design robusto e escalável para o seu software.
 
 - POCO: Plain Old CLR Object (Objeto CLR simples e comum) é um padrão de projeto que é usado para representar objetos de negócios em um aplicativo. Eles são objetos simples que não possuem nenhuma lógica de negócios, nenhuma dependência de infraestrutura e nenhuma herança de classes complexas. Eles geralmente são usados ​​como entidades do banco de dados ou como objetos de transferência de dados (DTOs). Em resumo, eles são apenas objetos que representam dados de uma forma que faz sentido para a lógica do negócio.
