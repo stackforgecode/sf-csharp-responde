@@ -10,3 +10,5 @@
 - [Exemplo de consulta com query sql em comparação com LINQ e análise de desempenho](https://github.com/stackforgecode/sf-csharp-responde/blob/main/docs/csharp-0004.md)
 
 - [Desenvolvimento C# 11: quais as diferenças entre HttpClient e HttpClientFactory](https://github.com/stackforgecode/sf-csharp-responde/blob/main/docs/csharp-0005.md)
+
+- [Classe, Structs, Record, Partial](https://github.com/stackforgecode/sf-csharp-responde/blob/main/docs/csharp-0006.md)
